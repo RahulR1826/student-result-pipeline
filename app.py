@@ -1,7 +1,7 @@
 students = {
     "Naren": 85,
     "Rahul": 82,
-    "Sakas": 76,
+    "Sakas": 88,
     "Pavan": 78,
     "Pranav": 87,
     "Ragavan": 83
