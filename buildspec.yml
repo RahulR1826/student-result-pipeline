@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.11
+
+  build:
+    commands:
+      - echo "Starting Student Result Processing Build"
+      - python app.py
+      - echo "Build Completed Successfully"
+
+artifacts:
+  files:
+    - '**/*'
