@@ -1,5 +1,5 @@
 students = {
-    "Naren": 85,
+    "Naren": 95,
     "Rahul": 82,
     "Sakas": 88,
     "Pavan": 78,
